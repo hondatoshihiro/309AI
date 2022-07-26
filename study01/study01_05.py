@@ -1,3 +1,4 @@
+#O'REILLY Pythonではじめる機械学習 p.12
 import sys
 import pandas as pd
 import matplotlib
