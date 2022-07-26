@@ -13,3 +13,12 @@ pip-selfcheck.json
 local_settings.py
 *.pyc
 *.log
+#jupyter関連
+*.json
+*.js
+*.j2
+*.css
+*.tpl
+*.png
+*.svg
+jupyter-notebook.desktop

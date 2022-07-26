@@ -1,3 +1,4 @@
+#O'REILLY Pythonではじめる機械学習 p.8～9
 import numpy as np
 from scipy import sparse
 
