@@ -2,6 +2,7 @@
 from sklearn.datasets import load_breast_cancer
 import numpy as np
 
+#ウィスコンシン乳癌データセットの読み込み
 cancer = load_breast_cancer()
 print("cancer.keys(): \n{}".format(cancer.keys()))
 print("shape of cancer data: {}".format(cancer.data.shape))
